@@ -1,0 +1,18 @@
+-Script number 1 switches the current user to betty
+-Script 2 prints the effective username of the current user
+-Script 3 prints all the groups the current user is part of
+-Script 4 changes the owner of the file hello to the user betty
+-Script 5 creates an empty file called hello
+-Script 6 adds execute permission to the owner of the file hello
+-Script 7 adds execute permission to the owner and the group owner, and read permission other users to the file hello
+-Script 8 add execute permission to the owner, the group owner and other users to the file hello
+-Script 9 sets no permissions to the owner at all, no permission to the group at all, and all permissions to others
+-Script 10 sets the mode of the file to rwx r-x -wx
+-Script 11 sets the mode of the file hello the same as olleh's mode
+-Script 12 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+-Script 13 creates a directory called my_dir with permissions 751 in the working directory
+-Script 14 changes the group owner to school for the file hello
+-Script 15 changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+-Script 16 changes the owner and the group owner of the file _hello to vincent and staff
+-Script 17 changes the owner of the file hello to betty only if it is owned by the user guillaume
+-Script 18 plays the Star Wars IV episode in the terminal
